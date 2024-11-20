@@ -1,0 +1,25 @@
+.logos{
+    height: 70px;
+    width: 70px;
+    padding-right: 30px;
+}
+
+.skills-container{
+    margin-top: 170px;
+    margin-left: 76px;
+}
+
+.header{
+    font-size: 65px;
+    height: 0px;
+}
+
+.skills-categories h4{
+    font-size: 45px; 
+    font-weight: 500;
+    height: 0;
+    padding-bottom: 30px;
+}
+.skills-categories{
+    padding-top: 30px;
+}

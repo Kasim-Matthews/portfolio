@@ -1,0 +1,32 @@
+.home-container{
+    display: flex;
+    margin-top: 200px;
+    padding-left: 100px;
+    justify-content: space-between;
+}
+
+.home-texts{
+    width:1200px;
+}
+.home-introduction{
+    font-weight: bold;
+    font-size: 65px;
+}
+
+.my-name{
+    color: #0075F2;
+}
+
+.home-more{
+    font-size: 30px;
+    width: 950px;
+    padding-top: 25px;
+}
+
+.myself{
+    width: 500px;
+    height: 500px;
+    margin-right: 100px;
+    transform: rotate(7deg);
+    border-radius: 40px;
+}

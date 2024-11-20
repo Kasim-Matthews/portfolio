@@ -1,0 +1,28 @@
+.about-container{
+    display: flex;
+    margin-top: 200px;
+    padding-left: 100px;
+    justify-content: space-between;
+}
+
+.about-texts{
+    width:1000px;
+}
+
+.about-introduction{
+    font-weight: bold;
+    font-size: 65px;
+}
+
+.about-more{
+    font-size: 30px;
+    width: 950px;
+    padding-top: 20px;
+}
+
+.about-myself{
+    width: 500px;
+    height: 500px;
+    margin-right: 120px;
+    border-radius: 25px;
+}

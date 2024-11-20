@@ -1,0 +1,28 @@
+.c-socials {
+    padding-top: 27px;
+}
+.c-social {
+    padding-bottom: 16px;
+}
+.c-social a {
+    text-decoration: none;
+}
+
+.c-social-icon {
+    font-size: 28px;
+    color: #92817A ;
+    margin-left: 5px;
+    transition: 
+    font-size 0.5s,
+    color ease-in-out;
+    
+}
+
+.c-social-icon:hover{
+    font-size: 40px;
+    color: #0075F2;
+}
+
+.c-icon{
+    padding-right: 12px;
+}

@@ -1,0 +1,25 @@
+.a-socials {
+    padding-top: 27px;
+}
+.a-social {
+    padding-bottom: 16px;
+}
+.a-social a {
+    text-decoration: none;
+}
+
+.a-social-icon {
+    font-size: 22px;
+    color: #92817A ;
+    margin-left: 5px;
+}
+
+.a-social-icon:hover{
+    color: #0075F2;
+    transition: color ease-in-out;
+}
+
+.a-icon{
+    padding-right: 8px;
+}
+

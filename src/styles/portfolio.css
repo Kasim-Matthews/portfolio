@@ -1,0 +1,15 @@
+.container{
+    margin-top: 160px;
+    width: 1115px;
+    margin-bottom: 45px;
+    margin-left: 100px;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.subtext {
+    font-size: 22px;
+}

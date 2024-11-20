@@ -1,0 +1,23 @@
+.contact-container {
+    margin-top: 198px;
+    margin-left: 76px;
+    margin-right: 226px;
+    margin-bottom: 236px;
+    width: 1700px;
+}
+
+.contact-introduction {
+    font-weight: bold;
+    font-size: 65px;
+    padding-bottom: 40px;
+    width: 800px;
+}
+
+.contact-more {
+    font-size: 30px;
+    width: 1700px;
+}
+
+.contact-texts {
+    padding-bottom: 40px;
+}
