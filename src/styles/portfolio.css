@@ -2,12 +2,14 @@
     margin-top: 160px;
     width: 1115px;
     margin-bottom: 45px;
-    margin-left: 100px;
+    padding-left: 100px;
+
 }
 
 .heading {
     font-weight: bold;
     font-size: 60px;
+    padding-bottom: 10px;
 }
 
 .subtext {
